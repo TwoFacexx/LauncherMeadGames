@@ -30,6 +30,14 @@
     "Autor": "Francisco Roque",
     "Executavel": "bogalho-survivors.exe",
     "DownloadUrl": "https://github.com/TwoFacexx/LauncherMeadGames/releases/download/Francisco/Bogalho-survivors.zip"
+  },
+  {
+    "Nome": "Geo Bogalho",
+    "Categoria": "Survival Shooter",
+    "ImagemPath": "",
+    "Autor": "David Gonçalves",
+    "Executavel": "pap-david.exe",
+    "DownloadUrl": "https://github.com/TwoFacexx/LauncherMeadGames/releases/download/David/Geo-Bogalho-Beta.zip"
   }
 ]
 
